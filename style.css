@@ -79,3 +79,17 @@ div:hover {
   background-color: darkblue;
   overflow: hidden;
 }
+
+.pix {
+  height: 450px;
+  margin-left: 55%;
+  display: inline-block;
+  margin-top: 20px;
+}
+
+@media screen and (max-width:600px) {
+  .pix {
+    margin-left: 26px;
+    height: 240px;
+  }
+}
