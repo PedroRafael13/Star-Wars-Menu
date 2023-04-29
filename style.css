@@ -87,6 +87,13 @@ div:hover {
   margin-top: 20px;
 }
 
+p {
+  align-items: end;
+  margin-top: 120px;
+  height: 60px;
+  width: 65px;
+}
+
 @media screen and (max-width:600px) {
   .pix {
     margin-left: 26px;
