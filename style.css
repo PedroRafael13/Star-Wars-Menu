@@ -69,7 +69,7 @@ hr {
   width: 40px;
   height: 35px;
   align-items: safe;
-  margin: auto;
+  margin: 28px auto;
   cursor: pointer;
   color: darkblue;
 
@@ -81,10 +81,10 @@ div:hover {
 }
 
 .pix {
-  height: 450px;
-  margin-left: 55%;
-  display: inline-block;
-  margin-top: 20px;
+  height: 120px;
+  align-items: center;
+  margin-left: 990px;
+  color: darkblue;
   cursor: pointer;
 }
 
